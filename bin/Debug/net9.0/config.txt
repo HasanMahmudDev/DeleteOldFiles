@@ -1,0 +1,12 @@
+# Folders to clean (comma-separated, use quotes if spaces exist)
+FolderPath="C:\Users\Admin\Downloads\product","C:\Users\Admin\Downloads\product Details"
+
+# Number of previous days to keep files
+# 0  = delete all files before today
+# 1  = keep only today, delete files older than yesterday
+# 3  = keep last 3 days, delete files older than that
+# 5  = keep last 5 days
+# 10 = keep last 10 days
+# 20 = keep last 20 days
+# 30 = keep last 30 days
+previousDays=0

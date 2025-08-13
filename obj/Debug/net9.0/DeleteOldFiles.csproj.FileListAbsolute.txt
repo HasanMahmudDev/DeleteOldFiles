@@ -1,0 +1,14 @@
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.exe
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.deps.json
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.runtimeconfig.json
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.dll
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.pdb
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.AssemblyInfoInputs.cache
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.AssemblyInfo.cs
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.csproj.CoreCompileInputs.cache
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.dll
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\refint\DeleteOldFiles.dll
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.pdb
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.genruntimeconfig.cache
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\ref\DeleteOldFiles.dll

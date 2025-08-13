@@ -1,0 +1,2 @@
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Release\net9.0\win-x64\publish\DeleteOldFiles.pdb
+D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\bin\Release\net9.0\win-x64\publish\DeleteOldFiles.exe
