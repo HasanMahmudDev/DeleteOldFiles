@@ -29,12 +29,12 @@
 ### 1. Download and Extract Tool
 
 1. Download the published folder (from GitHub releases or repository).
-2. Extract it anywhere on your PC, e.g., `C:\OldFileCleaner`.
+2. Extract it anywhere on your PC, e.g., `C:\DeleteOldFiles`.
 
 You should see:
 
 ```
-OldFileCleaner.exe
+DeleteOldFiles.exe
 config.txt
 README.md
 ```
@@ -70,7 +70,7 @@ previousDays=0
 
 ### 3. Run the Program
 
-1. Double-click `OldFileCleaner.exe`.
+1. Double-click `DeleteOldFiles.exe`.
 2. The program will automatically read `config.txt` and clean the specified folders.
 3. Console will display messages:
 
