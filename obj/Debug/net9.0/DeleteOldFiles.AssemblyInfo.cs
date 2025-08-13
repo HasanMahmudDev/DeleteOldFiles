@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeleteOldFiles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d82fcef7b94a6e67aeac8dbfced0752d8f741f69")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeleteOldFiles")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeleteOldFiles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

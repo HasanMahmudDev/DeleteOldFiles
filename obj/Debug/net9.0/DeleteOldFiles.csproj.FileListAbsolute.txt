@@ -12,3 +12,18 @@ D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\ne
 D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.pdb
 D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.genruntimeconfig.cache
 D:\03 Database\new db auto backup\AutoDeleteProgramm\DeleteOldFiles\obj\Debug\net9.0\ref\DeleteOldFiles.dll
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.exe
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.deps.json
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.runtimeconfig.json
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.dll
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\bin\Debug\net9.0\DeleteOldFiles.pdb
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.AssemblyInfoInputs.cache
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.AssemblyInfo.cs
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.csproj.CoreCompileInputs.cache
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.sourcelink.json
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.dll
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\refint\DeleteOldFiles.dll
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.pdb
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\DeleteOldFiles.genruntimeconfig.cache
+E:\02_PSbyHasan\MyProjects\DeleteOldFiles\obj\Debug\net9.0\ref\DeleteOldFiles.dll

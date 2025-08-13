@@ -1,4 +1,4 @@
-# Old File Cleaner
+<h1 style="color:red;">Old File Cleaner</h1>
 
 **Old File Cleaner** is a simple and easy-to-use tool to automatically delete old files from one or multiple folders. The tool allows end users to clean their folders based on the number of previous days to keep, without needing programming knowledge.
 
